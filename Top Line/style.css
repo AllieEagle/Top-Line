@@ -1,0 +1,5 @@
+.topline {
+    position: relative;
+    height: 10px;
+    background: linear-gradient(141deg, cyan 0%, rebeccapurple 40%, deeppink 90%);
+}
